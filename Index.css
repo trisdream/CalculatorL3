@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+  justify-content: center;
+}
+
+.container {
+  background: aliceblue;
+  border-radius: 10px;
+  padding: 25px;
+  width: 350px;
+}
+
+.calc-text {
+  margin-bottom: 20px;
+  padding-left: 5px;
+}
+
+.calc-text p {
+  width: 100%;
+  font-size: 3.5rem;
+  color: rgb(0, 0, 0);
+  text-align: end;
+}
