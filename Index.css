@@ -31,3 +31,14 @@ body {
   color: rgb(0, 0, 0);
   text-align: end;
 }
+
+button {
+  background: rgb(120, 246, 255);
+  font-size: 1.5rem;
+  border: none;
+  cursor: pointer;
+  border-radius: 60%;
+  height: 65px;
+  width: 65px;
+}
+
